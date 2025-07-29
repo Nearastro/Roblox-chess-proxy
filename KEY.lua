@@ -1,2 +1,3 @@
 NearKey-VIPHWID=3a4669a1-0baa-4ddb-b257-e414d516caea
 NearKey-VIPOWN=9d696234-e584-4365-9c95-c49d2efa5385
+NearKey-YanPler=6e86be71-afbd-4e49-9888-f1725b41fedb
