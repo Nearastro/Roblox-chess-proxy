@@ -3,5 +3,5 @@ NearKey-VIPOWN=9d696234-e584-4365-9c95-c49d2efa5385
 NearKey-YanPler=6e86be71-afbd-4e49-9888-f1725b41fedb
 NearKey-LoganAsu=969d79bb-24da-444c-afa1-99f5b5d9f9c9
 NearastroKey=71cef384-38e9-4eef-8207-5dc8a7f03fcc
-AlterKey-HWID=514aedf7-48f3-4a7f-8dfd-242c03a5b448
+AlterKey-HWID=b2f79893-42ea-431b-801d-95cc39438459
 
