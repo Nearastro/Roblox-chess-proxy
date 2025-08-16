@@ -4,4 +4,4 @@ NearKey-YanPler=6e86be71-afbd-4e49-9888-f1725b41fedb
 NearKey-LoganAsu=969d79bb-24da-444c-afa1-99f5b5d9f9c9
 JayNearKey=6a1dd6e0-1b3d-4a21-b620-1d6c1cfffe10
 AlterKey-HWID=b2e4608f-1d26-41fc-abb4-675519ea4743
-
+NearNabil=db2d6c4c-a5df-4059-8427-4aa163267f35
