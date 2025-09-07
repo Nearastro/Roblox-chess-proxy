@@ -12,4 +12,3 @@ masjulian
 AldiPemburuKelamin
 mridwaneffendyr
 persib1933
-ebonly72
