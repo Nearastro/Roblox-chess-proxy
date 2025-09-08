@@ -10,5 +10,4 @@ seysya
 masjulian
 AldiPemburuKelamin
 persib1933
-NEARCIHUY1DAY
 ebonly72
